@@ -1,21 +1,20 @@
 # MATLAB_DSP
 
 LEC1- WAVEFORMS
-  1.1
-1.	Unit Impulse sequence
-2.	Unit step sequence
-3.	Unit Ramp sequence
-4.	Sinusoidal sequence  
-5.	Exponential sequence 
-6.	Random  sequence
-  2.1
-1.	Pulse signal, 
-2.	Unit step signal
-3.	Ramp signal
-4.	Sinusoidal signal,  
-5.	Exponential signal, 
-6.	Random signal
-
+  1.1 Continuous time
+  Unit Impulse sequence
+  Unit step sequence
+  Unit Ramp sequence
+  Sinusoidal sequence
+  Exponential sequence
+  Random  sequence
+  1.2 Discrete time
+  Pulse signal
+  Unit step signal
+  Ramp signal
+  Sinusoidal signal
+  Exponential signal
+  Random signal
 LEC2- OPERATIONS
   2.1- amplitude scaling
   2.2- time shifting, scaling, reversal
